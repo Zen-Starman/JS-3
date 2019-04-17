@@ -1,3 +1,9 @@
+/** JS - 3 Homework
+ *  Author: Zane Stearman
+ *  Date:   04/17/2019
+ *  File: js3.js
+ */
+
 function heeHaw2(){
 
     var x = document.getElementById('num').value;
